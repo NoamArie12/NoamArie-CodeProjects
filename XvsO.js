@@ -1,5 +1,5 @@
 function navigateToPage() {
-    window.location.href = "index.html";
+    window.location.href = "Index.html";
 }
 function reload() {
     location.reload();
@@ -7,10 +7,7 @@ function reload() {
 
 
 
-////////////////////////////////////// The game  //////////////////////////////////////////////////
-
-
-let winning = 'False';
+////////////////////////////////////// The game  //////////////////////////////////////////////////let winning = 'False';
 let currentMove = 'X';
 
 let one = '';
